@@ -29,6 +29,17 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    ,
+    {
+      "id": 908,
+      "category": "book",
+      "title": "Cleanup Code",
+      "description": "How to cleancode.",
+      "location": "Ha Noi",
+      "date": "May 21, 2022",
+      "time": "14:00",
+      "organizer": "Ngoc Lan"
     }
   ]
 }
